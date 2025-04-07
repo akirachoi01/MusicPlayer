@@ -11,11 +11,8 @@
 ==========================================================
 #### ** Original Version**
 - **Developed/Published By:** Ricky John Reusora
-- **Uploaded/Published at:** [https://www.kashipara.com/project/javascript/4835/music-player](https://www.kashipara.com/project/javascript/4835/music-player) 
+- **Uploaded/Published at:** [https://github.com/akirachoi01/MusicPlayer](https://github.com/akirachoi01/MusicPlayer) 
 ==========================================================
-#### ** Modified Version**
-- **Modified By:** oretnom23
-- **Published at:** [https://sourcecodester.com/javascript-music-player-app-source-code](https://sourcecodester.com/javascript-music-player-app-source-code) 
 
 ==========================================================
 #### **Modification Information**
